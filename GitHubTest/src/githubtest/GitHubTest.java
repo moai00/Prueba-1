@@ -17,7 +17,7 @@ public class GitHubTest {
     public static void main(String[] args)
     {
         System.out.println("Hola Mundo - 1st Ed.");
-        System.out.println("Hola Mundo - 1st Ed.");
+        System.out.println("Hola Mundo - 2nda edicion.");
     }
     
 }
